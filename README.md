@@ -50,7 +50,7 @@ grid-based game.
 
 ## 📸 Preview
 1. **Starting Screen**: Enter the name
-![s1.jpg](s1.jpg "Preview of startingscreen.jpg")
+![s1.jpg](images/s1.jpg "Preview of startingscreen.jpg")
 2. **Second Screen** 
 - **Start**: Start the game
 - **Instruction**: Rules and Help

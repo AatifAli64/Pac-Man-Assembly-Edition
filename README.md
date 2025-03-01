@@ -55,17 +55,17 @@ grid-based game.
 - **Start**: Start the game
 - **Instruction**: Rules and Help
 - **Exit**: Exit the Game
-![s2.jpg](s2.jpg "Preview of Secondscreen.jpg")
+![s2.jpg](images/s2.jpg "Preview of Secondscreen.jpg")
 3. **Levels Screen**: There are **3** levels
-![s3.jpg](s3.jpg "Preview of levels.jpg")
+![s3.jpg](images/s3.jpg "Preview of levels.jpg")
 4. **Level-1 Screen**
-![s4.jpg](s4.jpg "Preview of level1.jpg")
+![s4.jpg](images/s4.jpg "Preview of level1.jpg")
 5. **Level-2 Screen**
-![s5.jpg](s5.jpg "Preview of level2.jpg")
+![s5.jpg](images/s5.jpg "Preview of level2.jpg")
 6. **Level-3 Screen**
-![s7.jpg](s7.jpg "Preview of level3.jpg")
+![s7.jpg](images/s7.jpg "Preview of level3.jpg")
 7. **Scared-Ghost Screen**
-![s6.jpg](s6.jpg "Preview of scaredghost.jpg")
+![s6.jpg](images/s6.jpg "Preview of scaredghost.jpg")
 ---
 ## 📜 Credits
 Developed by **Aatif Ali Khan** as part of a low-level game programming challenge.
